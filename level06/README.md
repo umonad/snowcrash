@@ -8,3 +8,4 @@ level06@SnowCrash:~$ ./level06
 ```
 
 getflag -> "wiok45aaoguiboiki2tuin6ub"
+
