@@ -32,6 +32,6 @@ for i in /opt/openarenaserver/* ; do
 done
 ```
 
-we have created a script.sh how call getflag in the /opt/openarenaserver/ directory
+we have created a script.sh who call getflag in the /opt/openarenaserver/ directory then
 
-getflag -> "viuaaale9huek52boumoomioc"
+Which yields this token every 2 min: ```viuaaale9huek52boumoomioc```

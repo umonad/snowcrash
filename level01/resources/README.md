@@ -21,7 +21,7 @@
 ```text
     ...
     flag00:x:3000:3000::/home/flag/flag00:/bin/bash
-    flag01:42hDRfypTqqnw:3001:3001::/home/flag/flag01:/bin/bash  <- "42hDRfypTqqnw"
+    flag01:42hDRfypTqqnw:3001:3001::/home/flag/flag01:/bin/bash  <- ```42hDRfypTqqnw```
     flag02:x:3002:3002::/home/flag/flag02:/bin/bash
     ...
 ```
@@ -38,13 +38,10 @@ john text.txt
 
 ```bash
 john --show text.txt
+->  ?:abcdefg
+    1 password hash cracked, 0 left
 ```
 
--> ?:abcdefg
-
-1 password hash cracked, 0 left
-
-Flag01:
-"abcdefg"
+token cracked: ```abcdefg```
 
 getflag -> "f2av5il02puano7naaf6adaaf"
