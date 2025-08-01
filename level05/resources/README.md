@@ -1,4 +1,4 @@
-# flag04
+# Flag 05
 
 ```bash
 find / -name *level05*
@@ -24,8 +24,6 @@ inside /var/mail/level05:
 inside /usr/sbin/openarenaserver
 
 ```bash
-#!/bin/sh
-
 for i in /opt/openarenaserver/* ; do
     (ulimit -t 5; bash -x "$i")
     rm -f "$i"

