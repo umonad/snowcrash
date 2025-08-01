@@ -1,5 +1,4 @@
-
-# flag00
+# Flag 00
 
 ```bash
 find / -user "flag00"

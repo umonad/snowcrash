@@ -1,5 +1,4 @@
-
-# flag02
+# Flag 02
 
 the scp command : securely transfer files between machines over SSH
 
