@@ -26,7 +26,6 @@ while true; do
         while true; do
             ln -sf "$FAKE_FILE" "$TARGET_LINK"
             ln -sf "$REAL_FILE" "$TARGET_LINK"
-            sleep 0.001
         done
     ) &
     FLIP_PID=$!

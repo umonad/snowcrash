@@ -1,4 +1,3 @@
-
 # Snowcrash
 
 ## useful commands

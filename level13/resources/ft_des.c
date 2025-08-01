@@ -4,14 +4,10 @@
 #include <stdbool.h>
 #include <string.h>
 
-#include <string.h>
-
-
 typedef unsigned int  uint;
 typedef unsigned char byte;
 
-char * ft_des(char *param_1)
-{
+char * ft_des(char *param_1) {
   char cVar1;
   char *pcVar2;
   uint uVar3;
@@ -64,6 +60,6 @@ char * ft_des(char *param_1)
   } while( true );
 }
 
-int main(){
-    printf(ft_des("g <t61:|4_|!@IF.-62FH&G~DCK/Ekrvvdwz?v|"));
+int main() {
+    printf(ft_des("74H9D^3ed7k05445J0E4e;Da4"));
 }
